@@ -4,12 +4,12 @@ If your internet coming up way slower than you expected/was promised to you by y
 ## Description
 In order to use this bot (and watch it control your computer), all you need to do is replace lines 5 and 6 to match the expected download and upload speed you were promised by your internet service provider, respectively. Additonally, lines 7 and 8 (of the main.py file) need to be re-populated with your twitter username and password, respectively. The code to change out may be denoted by Figure 1, below. 
 
-<img src="" alt="Figure 1"> 
+<img src="https://github.com/nicolasvilleneuve/TwitterISPComplaintBot/blob/main/figures/Figure1.png" alt="Figure 1"> 
 Figure 1. The code to change out for your own download/upload speed, followed by your Twitter credentials in the main.py file. 
 
 Additonally, if you are a user of google chrome you will need to provide the path to your chromedriver in line 11 of main.py (exemplified by Figure 2, below). Should you not know how to install this, simply google it and you will find all that you need. If, instead, you use any other internet browser, you may sub this out for the driver required. 
 
-<img src="" alt="Figure 2"> 
+<img src="https://github.com/nicolasvilleneuve/TwitterISPComplaintBot/blob/main/figures/Figure2.png" alt="Figure 2"> 
 Figure 2. The code to change out for your own filepath to your desired internet browser driver.  
 
 ## Usage
